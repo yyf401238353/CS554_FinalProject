@@ -1,7 +1,7 @@
 # CS554_FinalProject
 A SNS web app based on react.
 
-+ our twitter like app will contain folloing parts:
+our twitter like app will contain folloing parts:
  - database  (saving user info)
  - web server (interact with user)
  - api manipulator
