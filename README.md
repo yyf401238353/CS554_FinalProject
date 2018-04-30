@@ -25,3 +25,4 @@ What do we need for database
  -store account info
  -store image upload
  -store game info for recomend
+ 流程图的分享链接https://www.processon.com/view/link/5ae65274e4b039625af7e62f
